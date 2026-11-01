@@ -1,0 +1,26 @@
+body{
+    font-family:Verdana,Geneva,Tahoma,sans-serif;
+  background-color:#fff0f5;
+  color:#333333;
+}
+h1{
+    color:#c45a7c;
+    text-align:center
+}
+h2{
+  color:#a64d79
+  margin-bottom:10px;
+}
+p{
+  line-height:1.6;
+}
+ul{
+  padding-left:25px;
+}
+li{
+  margin-bottom:5px;
+}
+a{
+  color:#c45a7c;
+  text-decoration:none;
+}
