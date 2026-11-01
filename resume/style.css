@@ -2,6 +2,7 @@ body{
     font-family:Verdana,Geneva,Tahoma,sans-serif;
   background-color:#fff0f5;
   color:#333333;
+    padding-top:60px;
 }
 h1{
     color:#c45a7c;
@@ -23,4 +24,22 @@ li{
 a{
   color:#c45a7c;
   text-decoration:none;
+}
+img{
+        width:200px
+    height:auto;
+    border-radius:10px
+}
+nav{
+    position:fixed;
+    top:0
+    width:100%
+    background-color:#c45a7c;
+    padding:15px;
+    z-index:1000;
+}
+nav a{
+    color:white;
+    margin-right:20px;
+    text-decoration:none;
 }
