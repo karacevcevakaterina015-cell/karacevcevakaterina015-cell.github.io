@@ -26,9 +26,9 @@ a{
   text-decoration:none;
 }
 img{
-        width:150px
+        width:150px;
     height:auto;
-    border-radius:10px
+    border-radius:10px;
 }
 nav{
     position:fixed;
