@@ -32,8 +32,8 @@ img{
 }
 nav{
     position:fixed;
-    top:0
-    width:100%
+    top:0;
+    width:100%;
     background-color:#c45a7c;
     padding:15px;
     z-index:1000;
