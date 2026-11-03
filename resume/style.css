@@ -1,3 +1,4 @@
+
 body{
     font-family:Verdana,Geneva,Tahoma,sans-serif;
   background-color:#fff0f5;
@@ -46,4 +47,10 @@ nav a{
     color:white;
     margin-right:20px;
     text-decoration:none;
+}
+section{
+    border:2px solid #c45a7c;
+    border-radius:12px;
+    padding:20px;
+    margin-botton:20px;
 }
